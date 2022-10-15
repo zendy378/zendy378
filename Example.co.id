@@ -1,9 +1,32 @@
-- 👋 Nama : Zendy Pradana Eka Saputra
--    Nim  : 241220048
--    Prodi: S1 Manajemen Ekonomi 5 A malam
 
+<html lang="en">
+    <head>
+        <title>Tugas Sistem Informasi Manajemen</title>
+    </head>
+<style>
+{
+    min-height: 100%;
+}
 
-<!---
-zendy378/zendy378 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+body {
+    background: -webkit-linear-gradient(left, #93B874, #C9DCB9); 
+    background: -o-linear-gradient(right, #93B874, #C9DCB9); 
+    background: -moz-linear-gradient(right, #93B874, #C9DCB9); 
+    background: linear-gradient(to right, #93B874, #C9DCB9); 
+    background-color: #93B874; 
+}
+</style>
+    <body>
+<font face="Ailerons">
+        <font size="7"><b>Tugas 1 - Belajar membuat website melalui github.</b></font></font><br>
+<font face="Times New Roman">
+Nama : Zulvan Dhika Prahesta<br>
+NIM : 241220035<br>
+Prodi : Manajemen 5A Malam<br>
+</font>
+<div><a href="https://www.instagram.com/zulvandhika/">
+<img style="margin:5px"
+<img src="2373AA4C-B228-45C3-AB4A-F22AFC7A1C93.png" width="60" height="60" alt="Instagram"/><br>
+
+    </body>
+</html>
